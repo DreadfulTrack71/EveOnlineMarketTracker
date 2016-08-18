@@ -1,0 +1,2 @@
+Specification:
+	Track various data about the market in Eve Online

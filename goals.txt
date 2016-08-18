@@ -1,0 +1,5 @@
+Goal One:
+	Fetch the api list of items that can be sold in a market place
+
+Goal Two:
+	Use list to fetch buy and sell orders for each of the five major trade hubs in the game - Jita, Amarr, Dodixie, Rens, Hek

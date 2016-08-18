@@ -1,0 +1,27 @@
+Nouns:
+	Market
+	Item
+	Player
+	Inventory
+	Cost
+	Receipt
+	Station
+	Region
+	Ship
+	SolarSystem
+	Material
+	History
+	Database
+	File
+	ID
+
+
+Verbs:
+	Buy
+	Sell
+	Read
+	Write
+	Access
+	Download
+	Parse
+	
