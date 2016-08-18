@@ -1,5 +1,5 @@
 # A simple HelloWorld program for testing purposes
-# Author: Jonathan Perry
+# Author: DreadfulTrack71
 # Date: 2016-08-18
 # Version: 1.0
 

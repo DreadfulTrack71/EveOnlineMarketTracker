@@ -4,16 +4,16 @@ Nouns:
 	Player
 	Inventory
 	Cost
-	Receipt
 	Station
 	Region
 	Ship
 	SolarSystem
-	Material
 	History
 	Database
-	File
 	ID
+	Interface
+	CLI
+	GUI
 
 
 Verbs:
